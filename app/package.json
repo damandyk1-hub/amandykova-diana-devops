@@ -1,0 +1,10 @@
+{
+  "name": "amandykova-diana-devops",
+  "version": "1.0.0",
+  "description": "DevOps lab 1 app",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Diana Amandykova"
+}

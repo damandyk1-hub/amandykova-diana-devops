@@ -1,0 +1,12 @@
+services:
+  web:
+    build: .
+    image: amandykova-diana-devops
+    container_name: amandykova-diana-web
+    environment:
+      - STUDENT_NAME=Diana
+      - STUDENT_SURNAME=Amandykova
+      - STUDENT_GROUP=IT-2314
+      - STUDENT_ID=41547
+    ports:
+      - "127.0.0.1:3000:3000"
