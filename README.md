@@ -13,3 +13,4 @@ curl localhost:3000
 ```
 Pipeline: Checkout, Build, Test, Docker Build, Docker Run
 Pipeline: Checkout, Build, Test, Docker Build, Docker Run
+Pipeline: Checkout, Build, Test, Docker Build, Docker Run
